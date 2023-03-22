@@ -1,0 +1,6 @@
+VERSION='2ddp_node'
+FLUENT_ARCH='win64'
+FLUENT_RELEASE='fluent21.1.0'
+CSOURCES=' $(SRC)vprofile.c'
+HSOURCES=''
+GPU_SUPPORT='off'
